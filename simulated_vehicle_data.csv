@@ -1,0 +1,17 @@
+hour,day_of_week,weather,vehicle_count
+6,Mon,Clear,200
+7,Mon,Clear,350
+8,Mon,Clear,500
+9,Mon,Clear,450
+17,Mon,Clear,600
+18,Mon,Clear,700
+19,Mon,Clear,550
+20,Mon,Clear,300
+6,Tue,Clear,210
+7,Tue,Clear,360
+8,Tue,Clear,510
+9,Tue,Clear,460
+17,Tue,Clear,610
+18,Tue,Clear,710
+19,Tue,Clear,560
+20,Tue,Clear,310
